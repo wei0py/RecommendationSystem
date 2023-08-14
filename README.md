@@ -2,7 +2,7 @@
 This work presents a study on building a recommender system using the Amazon product review dataset. The goal of the system is to provide personalized recommendations to customers, based on their purchasing habits and preferences. 
 
 ### Dataset
-The dataset was collected by a researcher at UCSD and contains Amazon reviews in the range May 1996 - Oct 2018~\cite{ni2019justifying}. It includes reviews~(rating, review text, review time, and etc.), product metadata~(description, category, price, brand, and etc.). The total number of reviews is 233.1 million.
+The dataset was collected by a researcher at UCSD and contains Amazon reviews in the range May 1996 - Oct 2018. It includes reviews~(rating, review text, review time, and etc.), product metadata~(description, category, price, brand, and etc.). The total number of reviews is 233.1 million.
 
 The whole dataset is very huge and not practical for us to deal with. Therefore, in this project, we choose one specific category, **Electronics**.
 
